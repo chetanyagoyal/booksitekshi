@@ -79,9 +79,12 @@ select {
   border: 1px solid #dfe6e9;
   border-radius: 8px;
   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
-  overflow: hidden; /* Keep images inside */
+  
+  /* --- ADD/UPDATE THESE LINES --- */
+  position: relative; /* Establishes a stacking context for animations */
+  overflow: hidden;   /* Hides the pages as they slide off-screen */
+  min-height: 600px;  /* Prevents container collapse during animation */
 }
-
 .page {
   padding: 2.5rem;
   display: flex;
