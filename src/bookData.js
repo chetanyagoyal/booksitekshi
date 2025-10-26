@@ -4,7 +4,7 @@
 export const bookPages = [
     {
       // PDF Page 1 (Cover)
-      image: "/images/page1.png",
+      image: "/images/page1.jpg",
       text: [
         "The Adventures of Axel and Willow",
         "By Chetanya Goyal"
@@ -13,7 +13,7 @@ export const bookPages = [
     },
     {
       // PDF Page 2
-      image: "/images/page2.png",
+      image: "/images/page2.jpg",
       text: [
         "In a town full of wonders, there was a magical gate called \"The Hinge.\"",
         "It was said that if two people touched it at the exact same time, they would become the best of friends.",
@@ -23,7 +23,7 @@ export const bookPages = [
     },
     {
       // PDF Page 3
-      image: "/images/page3.png",
+      image: "/images/page3.jpg",
       text: [
         "Axel and Willow became the best of friends. They explored every corner of their town, but their favorite place was the garden of Barnaby, the town's grumpiest gnome.",
         "Barnaby grew the most beautiful flowers, but his most prized possession was a single, perfect rose that shimmered in the sun."
@@ -32,7 +32,7 @@ export const bookPages = [
     },
     {
       // PDF Page 4
-      image: "/images/page4.png",
+      image: "/images/page4.jpg",
       text: [
         "\"It's the loveliest flower I've ever seen,\" Willow whispered one afternoon.",
         "Axel, wanting to give his best friend a happy surprise, made a bold choice.",
@@ -42,7 +42,7 @@ export const bookPages = [
     },
     {
       // PDF Page 5
-      image: "/images/page5.png",
+      image: "/images/page5.jpg",
       text: [
         "WANTED",
         "ROSE RUSTLERS",
@@ -55,7 +55,7 @@ export const bookPages = [
     },
     {
       // PDF Page 6
-      image: "/images/page6.png",
+      image: "/images/page6.jpg",
       text: [
         "\"We have to fix this,\" said Willow, looking determined.",
         "\"But we have to fix it together,\" said Axel, a clever glint in his eye.",
@@ -66,7 +66,7 @@ export const bookPages = [
     },
     {
       // PDF Page 7
-      image: "/images/page7.png",
+      image: "/images/page7.jpg",
       text: [
         "Their plan was better than just saying sorry. They decided to give Barnaby something even more special than the rose.",
         "Axel, who was brilliant at building things, stayed up all night working on a secret project."
@@ -75,7 +75,7 @@ export const bookPages = [
     },
     {
       // PDF Page 8
-      image: "/images/page8.png",
+      image: "/images/page8.jpg",
       text: [
         "Willow, who knew all about gardening, found a packet of seeds for a rose that would bloom with all the colors of the rainbow.",
         "The next morning, before the sun came up, she crept to Barnaby's garden and left their surprise on his doorstep with a little note."
@@ -84,7 +84,7 @@ export const bookPages = [
     },
     {
       // PDF Page 9
-      image: "/images/page9.png",
+      image: "/images/page9.jpg",
       text: [
         "When Barnaby found the gift a self-watering, music-playing, super-pot and the rainbow seeds-his grumpy face broke into a giant smile!",
         "He was so happy, he replaced all the \"WANTED\" posters with \"THANK YOU\" posters.",
@@ -94,7 +94,7 @@ export const bookPages = [
     },
     {
       // PDF Page 10
-      image: "/images/page10.png",
+      image: "/images/page10.jpg",
       text: [
         "After solving their first big problem, Axel and Willow knew they were the best team in the whole wide world.",
         "They decided that a team that good should stick together always.",
@@ -104,7 +104,7 @@ export const bookPages = [
     },
     {
       // PDF Page 11
-      image: "/images/page11.png",
+      image: "/images/page11.jpg",
       text: [
         "To seal their promise, Axel gave Willow a ring made from a shiny pebble they found near The Hinge gate where they first met.",
         "It wasn't a fancy ring, but it meant \"I'll always be your partner in crime-solving and in life.\"",
